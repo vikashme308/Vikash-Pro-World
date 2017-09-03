@@ -1,4 +1,7 @@
 # Vikash-Pro-World
-1st Repository
-
-Crazy about programming.
+#include<stdio.h>
+void main()
+{
+ printf("Hello Vikash Pro World");
+ return 0;
+}
